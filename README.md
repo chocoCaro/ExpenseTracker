@@ -1,1 +1,2 @@
-# MuseoLens
+# Expense Tracker
+Tracking expenses and analyzing spending
