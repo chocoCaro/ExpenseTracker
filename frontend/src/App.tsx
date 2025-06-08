@@ -1,7 +1,7 @@
-import { Routes, Route } from 'react-router-dom'
-import Header from '@/components/Header'
-import Dashboard from '@/components/Dashboard'
-import Transactions from '@/components/Transactions'
+import { Routes, Route } from 'react-router-dom';
+import Header from '@/components/Header';
+import Dashboard from '@/components/Dashboard';
+import Transactions from '@/components/Transactions';
 
 const App = () => {
   return (
@@ -16,7 +16,7 @@ const App = () => {
         </main>
       </div>
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
